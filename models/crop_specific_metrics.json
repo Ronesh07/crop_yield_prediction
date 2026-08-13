@@ -1,0 +1,47 @@
+[
+    {
+        "Crop": "Potatoes",
+        "Global Hybrid R2": -0.8078376029582996,
+        "Crop-Specific Hybrid R2": 0.8057756527726724,
+        "Global Hybrid RMSE": 133545.90672603028,
+        "Crop-Specific Hybrid RMSE": 43772.63679833438,
+        "Global Hybrid MAE": 114957.4841049843,
+        "Crop-Specific Hybrid MAE": 27224.83372776623
+    },
+    {
+        "Crop": "Maize",
+        "Global Hybrid R2": -2.3286989186031586,
+        "Crop-Specific Hybrid R2": 0.9352096288010602,
+        "Global Hybrid RMSE": 48402.74281853253,
+        "Crop-Specific Hybrid RMSE": 6752.863154793437,
+        "Global Hybrid MAE": 41732.81421945465,
+        "Crop-Specific Hybrid MAE": 5028.121959135666
+    },
+    {
+        "Crop": "Wheat",
+        "Global Hybrid R2": -11.337410954792333,
+        "Crop-Specific Hybrid R2": 0.9174087410850525,
+        "Global Hybrid RMSE": 65053.99758750202,
+        "Crop-Specific Hybrid RMSE": 5322.663571182451,
+        "Global Hybrid MAE": 55701.16465956271,
+        "Crop-Specific Hybrid MAE": 3645.7680290460644
+    },
+    {
+        "Crop": "Soybeans",
+        "Global Hybrid R2": -83.61477933267543,
+        "Crop-Specific Hybrid R2": 0.7679901971788807,
+        "Global Hybrid RMSE": 63131.290267554185,
+        "Crop-Specific Hybrid RMSE": 3305.785876393162,
+        "Global Hybrid MAE": 59414.45027776693,
+        "Crop-Specific Hybrid MAE": 2219.55540435378
+    },
+    {
+        "Crop": "Rice, paddy",
+        "Global Hybrid R2": -2.2474580318251913,
+        "Crop-Specific Hybrid R2": 0.8070935118637989,
+        "Global Hybrid RMSE": 39288.597242853626,
+        "Crop-Specific Hybrid RMSE": 9575.647862849268,
+        "Global Hybrid MAE": 32998.08303588062,
+        "Crop-Specific Hybrid MAE": 5865.862937902994
+    }
+]

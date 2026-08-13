@@ -1,0 +1,107 @@
+{
+    "rice": {
+        "description": "Rice is the seed of the grass species Oryza sativa. It is the most widely consumed staple food for a large part of the world's human population, especially in Asia.",
+        "growing_conditions": "Requires warm climate, heavy rainfall, humidity and waterlogged soil. Optimal temperature is between 20-35°C.",
+        "nutritional_value": "Good source of carbohydrates, provides some protein, very little fat, and negligible amounts of vitamins and minerals.",
+        "typical_yield": "4-6 tons per hectare",
+        "major_producers": ["China", "India", "Indonesia", "Bangladesh", "Vietnam"]
+    },
+    "wheat": {
+        "description": "Wheat is a grass widely cultivated for its seed, a cereal grain which is a worldwide staple food.",
+        "growing_conditions": "Can be grown in a wide range of soils, but thrives in well-drained loamy soil. Requires moderate rainfall and cool weather.",
+        "nutritional_value": "Rich in carbohydrates, with moderate amounts of protein, minimal fat, and several vitamins and minerals.",
+        "typical_yield": "3-4 tons per hectare",
+        "major_producers": ["China", "India", "Russia", "United States", "France"]
+    },
+    "maize": {
+        "description": "Maize, also known as corn, is a cereal grain first domesticated by indigenous peoples in southern Mexico.",
+        "growing_conditions": "Requires warm weather, plenty of sunshine, and moderate rainfall. Optimal temperature is between 18-32°C.",
+        "nutritional_value": "High in carbohydrates, provides some protein and minimal fat. Good source of dietary fiber and several vitamins.",
+        "typical_yield": "5-8 tons per hectare",
+        "major_producers": ["United States", "China", "Brazil", "Argentina", "Mexico"]
+    },
+    "potato": {
+        "description": "The potato is a root vegetable native to the Americas, a starchy tuber of the plant Solanum tuberosum.",
+        "growing_conditions": "Grows best in cool climates with well-drained, loose soil. Requires consistent moisture.",
+        "nutritional_value": "Good source of carbohydrates, vitamin C, potassium, and dietary fiber.",
+        "typical_yield": "15-30 tons per hectare",
+        "major_producers": ["China", "India", "Russia", "Ukraine", "United States"]
+    },
+    "cotton": {
+        "description": "Cotton is a soft, fluffy staple fiber that grows in a boll around the seeds of the cotton plant.",
+        "growing_conditions": "Requires a long frost-free period, plenty of sunshine, and moderate rainfall. Grows best in warm climates.",
+        "nutritional_value": "Not a food crop. Used primarily for textile production.",
+        "typical_yield": "1.5-2.5 tons per hectare",
+        "major_producers": ["China", "India", "United States", "Pakistan", "Brazil"]
+    },
+    "sugarcane": {
+        "description": "Sugarcane is a perennial grass of the genus Saccharum used for sugar production.",
+        "growing_conditions": "Requires tropical or subtropical climate, abundant sunshine, and high humidity. Optimal temperature is between 20-35°C.",
+        "nutritional_value": "Primarily processed for sugar. Raw sugarcane juice contains vitamins and minerals.",
+        "typical_yield": "60-80 tons per hectare",
+        "major_producers": ["Brazil", "India", "China", "Thailand", "Pakistan"]
+    },
+    "coffee": {
+        "description": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species.",
+        "growing_conditions": "Grows best in tropical climates with rich soil and moderate rainfall. Prefers shade and elevation.",
+        "nutritional_value": "Contains caffeine, antioxidants, and minimal nutritional value as a food.",
+        "typical_yield": "0.5-1 ton per hectare",
+        "major_producers": ["Brazil", "Vietnam", "Colombia", "Indonesia", "Ethiopia"]
+    },
+    "muskmelon": {
+        "description": "Muskmelon (Cucumis melo) is a species of melon that includes cantaloupes, honeydew melons, and Persian melons.",
+        "growing_conditions": "Requires warm temperatures, full sun, and well-drained soil. Sensitive to frost and excessive moisture.",
+        "nutritional_value": "Rich in vitamins A and C, potassium, and antioxidants. Low in calories.",
+        "typical_yield": "15-25 tons per hectare",
+        "major_producers": ["China", "Turkey", "Iran", "Egypt", "India"]
+    },
+    "watermelon": {
+        "description": "Watermelon (Citrullus lanatus) is a flowering plant species of the Cucurbitaceae family and the name of its edible fruit.",
+        "growing_conditions": "Requires warm temperatures, full sun, and well-drained soil. Needs consistent water supply.",
+        "nutritional_value": "High water content, good source of vitamins A and C, and contains lycopene. Low in calories.",
+        "typical_yield": "20-40 tons per hectare",
+        "major_producers": ["China", "Turkey", "Iran", "Brazil", "Egypt"]
+    },
+    "apple": {
+        "description": "The apple is a pome fruit from the apple tree (Malus domestica), one of the most widely cultivated tree fruits.",
+        "growing_conditions": "Grows in temperate climates with cold winters and mild summers. Requires well-drained soil and full sun.",
+        "nutritional_value": "Good source of dietary fiber, vitamin C, and various antioxidants.",
+        "typical_yield": "15-30 tons per hectare",
+        "major_producers": ["China", "United States", "Turkey", "Poland", "Italy"]
+    },
+    "grapes": {
+        "description": "Grapes are the fruit of the woody vine of the genus Vitis. They can be eaten fresh as table grapes or used for making wine, jam, juice, or dried as raisins.",
+        "growing_conditions": "Thrives in Mediterranean-like climates with warm, dry summers and mild winters. Requires well-drained soil.",
+        "nutritional_value": "Contains resveratrol, antioxidants, and vitamins K and C. Provides natural sugars.",
+        "typical_yield": "8-15 tons per hectare",
+        "major_producers": ["China", "Italy", "United States", "Spain", "France"]
+    },
+    "mango": {
+        "description": "Mango is a juicy stone fruit produced from numerous species of tropical trees belonging to the flowering plant genus Mangifera.",
+        "growing_conditions": "Requires tropical climate, full sun, and well-drained soil. Optimal temperature is between 24-30°C.",
+        "nutritional_value": "Rich in vitamins A and C, and various antioxidants. Good source of dietary fiber.",
+        "typical_yield": "10-15 tons per hectare",
+        "major_producers": ["India", "China", "Thailand", "Indonesia", "Mexico"]
+    },
+    "banana": {
+        "description": "Banana is an edible fruit produced by several kinds of large herbaceous flowering plants in the genus Musa.",
+        "growing_conditions": "Requires tropical climate, abundant rainfall, and high humidity. Grows best in rich, well-drained soil.",
+        "nutritional_value": "Good source of potassium, vitamin B6, vitamin C, and dietary fiber.",
+        "typical_yield": "20-40 tons per hectare",
+        "major_producers": ["India", "China", "Indonesia", "Brazil", "Ecuador"]
+    },
+    "orange": {
+        "description": "The orange is the fruit of the citrus species Citrus × sinensis. It is a hybrid between pomelo and mandarin.",
+        "growing_conditions": "Grows best in subtropical climates with warm temperatures and moderate rainfall. Requires well-drained soil.",
+        "nutritional_value": "Excellent source of vitamin C, also provides folate, thiamine, and potassium.",
+        "typical_yield": "15-30 tons per hectare",
+        "major_producers": ["Brazil", "China", "India", "United States", "Mexico"]
+    },
+    "quinoa": {
+        "description": "Quinoa is a flowering plant grown primarily for its edible seeds, which are rich in protein, fiber, and essential amino acids.",
+        "growing_conditions": "Thrives in well-drained soils, tolerates drought, and grows best in cool climates with temperatures between 15–20°C.",
+        "nutritional_value": "High in protein, contains all nine essential amino acids, rich in fiber, magnesium, B vitamins, iron, potassium, calcium, phosphorus, vitamin E, and various beneficial antioxidants.",
+        "typical_yield": "1–3 tons per hectare",
+        "major_producers": ["Bolivia", "Peru", "Ecuador", "United States"]
+    }
+}
