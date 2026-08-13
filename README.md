@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B.svg)](https://streamlit.io)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.4+-F7931E.svg)](https://scikit-learn.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 > An AI-powered agricultural analytics platform combining **Machine Learning**, **Data Visualization**, and **Gemini AI** to help farmers, researchers, and agricultural professionals predict crop yields and make data-driven farming decisions.
 
